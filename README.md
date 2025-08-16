@@ -1,4 +1,15 @@
+# 💫 Hi 👋, I'm Narasimha Dhoni
+**BTech CSE Artificial Intelligence and Machine Learning Student || Tech Enthusiast**
 
+Email Me 👉 ✉️ **narasimhadhoni.a@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Data Structures And Algorithms Using C++
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** narasimhadhoni.a@gmail.com
+- 😄 **Pronouns:** Narasimha
+- ⚡ **Fun fact:** My code has more commits at midnight than in the morning.
+
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/narasimha.a.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narasimhadhoni) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@narasimhadhoni.a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narasimhadhoni.a@gmail.com) 
 
