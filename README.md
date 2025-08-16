@@ -1,5 +1,3 @@
-![Header](github-header-banner.png)
-
 # 💫 Hi 👋, I'm Narasimha Dhoni
 **BTech CSE Artificial Intelligence and Machine Learning Student || Tech Enthusiast**
 
